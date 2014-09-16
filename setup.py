@@ -7,7 +7,7 @@ setup(
     version='0.1',
     author='Colin Deasy',
     author_email='coldeasy+nose@gmail.com',
-    url="https://github.com/coldeasy/nose-runnable-test-names",
+    url="https://github.com/coldeasy/nose_runnable_test_names",
     description=(
         'Changes the nose test descriptions so that you can copy and paste '
         'a test to the nose runner'
